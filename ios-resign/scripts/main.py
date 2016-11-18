@@ -2,10 +2,8 @@
 #coding:utf-8
 
 """
-@author: Zero.zhao
-@version: 1.0
-@date: 2016-10-26 22:49:16
-@note: iOS自动化打包工具入口
+@author: Elve.xu
+@version: 1.1
 """
 
 import sys

@@ -2,10 +2,8 @@
 #coding:utf-8
 
 """
-@author: Zero.zhao
-@version: 1.0
-@date: 2016-10-27 01:38:53
-@note: 日志
+@author: Elve.xu
+@version: 1.1
 """
 
 import os
