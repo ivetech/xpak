@@ -1,0 +1,26 @@
+#mac os
+.DS_Store
+
+# generated files
+.idea/
+jni/
+logs/
+*target/
+*.versionsBackup
+zip-tool
+benchmark
+*.iml
+
+
+# built application files
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# Eclipse project files
+.classpath
+.project

@@ -1,0 +1,4 @@
+python3 main.py 'fads' 'com.regin.dgsd.iosguopan.yq.1.5.0.ipa' 'Phone Developer: yanfeng chen (T9423D3D3P)' 'CodeResignDevelopment.mobileprovision' 'test.ipa'
+
+# 解密本机钥匙串
+#security unlock-keychain -p "password"
