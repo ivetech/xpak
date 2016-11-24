@@ -1,6 +1,8 @@
 # xpak
 iOS App Re-sign for mac ; Android app file unpack and pack ;
 
+# Contact Me
+WeChat: AlsOnline
 
 # ios-resign
 ios-resign allows iDevice app bundles (.ipa) files to be signed or resigned with a digital certificate from Apple for distribution. It can also create signed iDevice app bundles (.ipa) files from .xcarchive files. This tool is aimed at enterprises users, for enterprise deployment, when the person signing the app is different than the person(s) developing it.
