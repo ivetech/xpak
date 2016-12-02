@@ -103,6 +103,9 @@ class packager:
 	def generate_plist(self):
 		self.full_plist_file = self.extracted + '/t_entitlements_full.plist'
 		self.plist_file = self.extracted + '/t_entitlements.plist'
+		'''
+		here need to config linux for user execute as root with no password		
+		'''
 		cmdstring = 'sudo security cms -D -i %s > %s' % (self.mobileprov_to_dir, self.full_plist_file)
 		logger.info(cmdstring)
 		shell.execute(cmdstring, shell=True)
